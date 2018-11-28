@@ -307,16 +307,16 @@ https://deskthority.net/photos-f62/cherry-mx5000-teardown-restoration-g80-5000-h
 
 <img src="img/switch diagram lol.jpg" width="200px"/>
 
-## Layouts
-- https://mull.in/2018/03/25/keyboard-improvement-3-layers/
-- http://thedarnedestthing.com/colophon (lots to explore, many articles on different layouts, links at the bottom of the page)
-- http://xahlee.info/kbd/keyboard_Kinesis_thumb_keys_layout.html
-
 ### Switches tester
 + KBDfans 63 switches with DSA keycaps [ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575419094&campid=5338362280&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FKBDfans-Mechanical-keyboard-Super-Swithes-Tester-63-switches-with-DSA-keycap%2F253530883073) [aliexpress](http://s.click.aliexpress.com/e/bkTLDYAc)  
 + https://novelkeys.xyz/collections/switch-testers/products/25-slot-switch-tester
 
 <img src="img/switch_tester.jpg" width="200px"/> <img src="img/switch_tester2.jpg" width="200px"/> <img src="img/switches.jpg" width="200px"/>
+
+## Layouts
+- https://mull.in/2018/03/25/keyboard-improvement-3-layers/
+- http://thedarnedestthing.com/colophon (lots to explore, many articles on different layouts, links at the bottom of the page)
+- http://xahlee.info/kbd/keyboard_Kinesis_thumb_keys_layout.html
 
 ## Shopping
 - https://kprepublic.com
